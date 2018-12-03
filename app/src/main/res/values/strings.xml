@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GuitarProg</string>
+    <string name="chord_data">{
+	"chords":{
+		"major": {
+			"a" : "A",
+			"b" : "B",
+			"c" : "C",
+			"d" : "D",
+			"e" : "E",
+			"f" : "F",
+			"g" : "G"
+
+		},
+		"minor": {
+
+			"a" : "A Minor",
+			"b" : "B Minor",
+			"c" : "C Minor",
+			"d" : "D Minor",
+			"e" : "E Minor",
+			"f" : "F Minor",
+			"g" : "G Minor"
+
+		}
+	}
+}</string>
+</resources>
